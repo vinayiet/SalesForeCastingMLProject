@@ -1,33 +1,6 @@
-sales-forecasting-linear-regression/
-│
-├── data/
-│   ├── raw/
-│   │   └── sales_data.csv
-│   ├── processed/
-│   │   └── cleaned_sales.csv
-│
-├── notebooks/
-│   └── 01_EDA.ipynb
-│
-├── src/
-│   ├── __init__.py
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── train_pipeline.py
-│   ├── evaluate.py
-│   ├── predict.py
-│
-├── models/
-│   └── sales_pipeline.pkl
-│
-├── app/
-│   ├── main.py     (FastAPI/Flask API)
-│   └── requirements.txt
-│
-├── reports/
-│   ├── findings.md
-│   ├── model_results.txt
-│   └── project_presentation.pptx
-│
-├── README.md
-└── .gitignore
+scikit-learn
+numpy 
+pandas 
+streamlit 
+seaborn 
+matplotlib
